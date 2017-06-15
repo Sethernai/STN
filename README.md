@@ -1,0 +1,2 @@
+# STN
+Ethereum coin project
